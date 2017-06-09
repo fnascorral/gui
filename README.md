@@ -13,6 +13,7 @@ Please read the [CONTRIBUTING.md](https://github.com/freenas/gui/blob/master/CON
 3. npm install (to install the various tools locally).
 4. npm run-script serve & (run the stand-alone web server)
 5. Go to http://localhost:3000/#?host=freenas.local
+6. Have fun!
 
 Edit sources as desired and the web server should pick up the changes, for
 incremental style development.
